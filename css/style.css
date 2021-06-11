@@ -402,7 +402,11 @@ div#preloader {
 
 .stick .navbar-brand.sticky-logo>img {
   display: block;
-  margin-top: 1px;
+  margin: top 1px;
+  width: 182px;
+  height: 64px;
+
+
 }
 
 .sticky-logo h1 {
@@ -412,10 +416,14 @@ div#preloader {
   font-size: 36px;
   font-weight: bold;
   line-height: 1;
+  width: 182px;
+  height: 64px;
 }
 
 .sticky-logo h1 span {
   color: #3ec1d5;
+  width: 182px;
+  height: 64px;
 }
 .stick .main-menu ul.navbar-nav li.active > a::after {
   border: 1px solid #fff;
